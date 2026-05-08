@@ -1,1 +1,1 @@
-# -1-MOF_GNN
+# MOF_GNN
